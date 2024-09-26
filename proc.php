@@ -36,7 +36,7 @@ if ($ary_get['proc'] == 'contact') {
 			}
 		}
 
-		$emails[] = 'renfu.her@gmail.com';
+		// $emails[] = 'renfu.her@gmail.com';
 
 		$postData = [
 			'from_email' => 'bloomami2022@gmail.com',
@@ -160,7 +160,7 @@ if ($ary_get['proc'] == 'join') {
 			}
 		}
 
-		$emails[] = 'renfu.her@gmail.com';
+		// $emails[] = 'renfu.her@gmail.com';
 
 		$postData = [
 			'from_email' => 'bloomami2022@gmail.com',
@@ -402,7 +402,7 @@ if ($ary_get['proc'] == 'forget') {
 			}
 		}
 
-		$emails[] = 'renfu.her@gmail.com';
+		// $emails[] = 'renfu.her@gmail.com';
 
 		$postData = [
 			'from_email' => 'bloomami2022@gmail.com',
@@ -640,7 +640,7 @@ if ($ary_get['proc'] == 'shoppingFinish') {
 				}
 			}
 
-			$emails[] = 'renfu.her@gmail.com';
+			// $emails[] = 'renfu.her@gmail.com';
 
 			$postData = [
 				'from_email' => 'bloomami2022@gmail.com',
@@ -673,7 +673,7 @@ if ($ary_get['proc'] == 'shoppingFinish') {
 					}
 				}
 
-				$emails[] = 'renfu.her@gmail.com';
+				// $emails[] = 'renfu.her@gmail.com';
 
 				$postData = [
 					'from_email' => 'bloomami2022@gmail.com',
