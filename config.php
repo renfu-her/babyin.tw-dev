@@ -21,9 +21,9 @@ include_once libs.'func.php' ;
 include_once libs.'Mobile_Detect.php' ;
 
 $conn_host  = '127.0.0.1';
-$conn_db    = 'goodwayt_babyin';
+$conn_db    = 'babyin';
 $conn_user  = 'babyin';
-$conn_pass  = 'qF2n9LA58A292yKE';
+$conn_pass  = 'Ua5qibAg44SLmbZfJAo6';
 
 
 // admin acc
